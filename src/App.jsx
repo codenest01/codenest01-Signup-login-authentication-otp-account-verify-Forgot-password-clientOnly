@@ -11,7 +11,7 @@ import Header from './Layout/Header';
 import Footer from './Layout/Footer';
 import ErrorPage from "./components/publicPages/ErrorPage"
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import RefreshHandler from './RefreshHandler';
+import RefreshHandler from './components/refreshHandler';
 import { useState } from 'react';
 
 
